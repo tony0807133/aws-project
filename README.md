@@ -25,7 +25,7 @@ It incorporates **security, scalability, high availability, and monitoring** by 
 
 ## 🏗 Architecture
 
-![AWS Project Architecture Screenshot](assets/aws-architecture-screenshot.png)
+![Architecture Diagram](img/aws-vpc-diagram.png)
 
 **Workflow:**
 1. **Custom VPC** with separate public & private subnets across multiple Availability Zones.
