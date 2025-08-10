@@ -1,6 +1,5 @@
 # 🌐 AWS Custom VPC Project – Secure, Scalable & Highly Available Hosting
 
-![Architecture Animation](assets/aws-architecture.gif)
 
 A fully customized AWS environment designed to host secure, scalable, and highly available applications with real-time monitoring, automated scaling, and a robust backend database.
 
@@ -26,6 +25,7 @@ It incorporates **security, scalability, high availability, and monitoring** by 
 ## 🏗 Architecture
 
 ![Architecture Diagram](img/screenshot_10082025_132657.jpg)
+![Architecture Diagram](img/screenshot_10082025_133017.jpg)
 
 **Workflow:**
 1. **Custom VPC** with separate public & private subnets across multiple Availability Zones.
